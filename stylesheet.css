@@ -36,6 +36,11 @@ a:hover {
   text-decoration: underline;
 }
 
+.divider{
+  width: 100%;
+  border-bottom: 1px solid #414042;
+}
+
 /***************************
 ****************************
 Layout Styles
